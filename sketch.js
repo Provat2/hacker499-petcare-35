@@ -22,7 +22,7 @@ function setup() {
 
 
 function draw() {  
-  background("46, 139, 87");
+  background("green");
   drawSprites();
   //add styles here
 
